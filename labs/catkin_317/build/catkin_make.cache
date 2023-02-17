@@ -1,0 +1,2 @@
+lab2pkg_py:lab3pkg_py:lab4pkg_py:lab5pkg/lab5pkg_py:ur3e_driver_ece470
+-DCATKIN_DEVEL_PREFIX=/home/ur3/catkin_317/devel -DCMAKE_INSTALL_PREFIX=/home/ur3/catkin_317/install -G Unix Makefiles

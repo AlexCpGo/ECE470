@@ -1,0 +1,8 @@
+prefix=/home/ur3/catkin_317/devel
+
+Name: ur3e_driver_ece470
+Description: Description of ur3e_driver_ece470
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
