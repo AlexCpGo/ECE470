@@ -10,4 +10,4 @@
 ###### 4. Forward Kinematics & Inverse Kinematics
 ###### 5. Camera Sensing and Integration into the World Frame for a Pick and Place Task
 
-![alt text](https://https://github.com/InfiniteTree/ECE470/blob/Robotics.png?raw=true)
+![Alt text](https://github.com/InfiniteTree/ECE470/blob/Robotics.png?raw=true)
