@@ -9,3 +9,5 @@
 ###### 3. Camera Sensing and Paricle Filter
 ###### 4. Forward Kinematics & Inverse Kinematics
 ###### 5. Camera Sensing and Integration into the World Frame for a Pick and Place Task
+
+![alt text](https://https://github.com/InfiniteTree/ECE470/Robotics.png?raw=true)
